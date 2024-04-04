@@ -1,3 +1,8 @@
+# Author: Michael Cieslak
+# Date: April 4th, 2024
+# Note: This Script connectes to a BME280 sensor and OLED display through an I2C bus
+# and this was written to be used with a Rasberry Pi PICO W.
+#
 # import libraries used in script
 import machine
 import bme280
